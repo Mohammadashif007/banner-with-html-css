@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.banner-container {
+    background-image: url('/jacques-dillies-2wZqKNuz2rQ-unsplash\ \(1\).jpg');
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
