@@ -8,4 +8,10 @@
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    position: relative;
+}
+.banner-container h1 {
+    font-size: 3rem;
+    color: whitesmoke;
+    font-weight: bold;
 }
